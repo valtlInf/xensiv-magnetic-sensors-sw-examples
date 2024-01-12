@@ -1,0 +1,1 @@
+This repository contains software examples for the XENSIV magnetic sensors.
