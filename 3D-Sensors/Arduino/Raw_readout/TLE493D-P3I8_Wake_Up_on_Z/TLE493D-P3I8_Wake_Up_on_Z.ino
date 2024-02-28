@@ -43,7 +43,7 @@ void setup() {
       SPI.transfer(0x80);         // [wu_yl_msbs] reset value is 0x80
       SPI.transfer(0x00);         // [wu_zh_msbs] reset value is 0x7F
     SPI.endTransaction();         // here the MOSI and CLK line are triggered
-    delayMicroseconds(5);         // to satisfie t_CSN_lag
+    delayMicroseconds(5);         // to satisfy t_CSN_lag
   digitalWrite(CSN, HIGH);
   Serial.println("Bz in LSB_14, T in LSB, Bz in mT, T in °C, diag");
 
@@ -62,7 +62,7 @@ void interruptFunction() {
         buf[i] = SPI.transfer(0x00);
       }
     SPI.endTransaction();         // here the MOSI and CLK line are triggered
-    delayMicroseconds(5);         // to satisfie t_CSN_lag
+    delayMicroseconds(5);         // to satisfy t_CSN_lag
   digitalWrite(CSN, HIGH);
 
   // built 14 bit data 
