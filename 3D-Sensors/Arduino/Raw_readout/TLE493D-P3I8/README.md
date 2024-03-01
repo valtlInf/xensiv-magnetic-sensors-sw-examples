@@ -1,0 +1,1 @@
+Reading a TLE493D-P3I8 on a Shield2Go or 2goKit with plain SPI commands (using the Arduino SPI library). The sensor is opperated in the master controlled mode in the full range setting (plus-minus 160 mT range).
