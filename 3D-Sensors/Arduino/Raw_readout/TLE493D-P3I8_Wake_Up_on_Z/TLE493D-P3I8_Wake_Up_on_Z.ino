@@ -13,7 +13,8 @@
 /* ---------------------------------------------------------------- */
 /* Very basic sketch to read out data from the TLE493D-P3I8 with    */
 /* plain SPI commands with the Wake Up / Interrupt functionality    */
-/* on Z only if Z >= 63 LSB14 at the update frequency of 16 Hz.     */
+/* on Z only if Z >= 63 LSB14 or Z <= -129 LSB14 at the update      */
+/* frequency of 16 Hz.                                              */
 /* ---------------------------------------------------------------- */
 
 #include "SPI.h"
@@ -42,6 +43,7 @@ void setup() {
       SPI.transfer(0x7F);         // [wu_yh_msbs] reset value is 0x7F
       SPI.transfer(0x80);         // [wu_yl_msbs] reset value is 0x80
       SPI.transfer(0x00);         // [wu_zh_msbs] reset value is 0x7F
+      SPI.transfer(0xFE);         // [wu_zl_msbs] reset value is 0x80
     SPI.endTransaction();         // here the MOSI and CLK line are triggered
     delayMicroseconds(5);         // to satisfy t_CSN_lag
   digitalWrite(CSN, HIGH);
