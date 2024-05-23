@@ -1,0 +1,2 @@
+Reading a TLE493D-A2B6 on a Shield2Go with plain I²C commands (using the Arduino Wire library)
+The sensor is configured in the master controlled, 1-byte-read mode. The ADC is triggered after read 0x05, with clock stretching      
