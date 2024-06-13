@@ -25,16 +25,16 @@ uint8_t buf[10];        // buffer to store received values
 
 
 void setup() {
-  pinMode(VDD_pin, OUTPUT); delay(10);  // switch on VDD for sensor
+  pinMode(VDD_pin, OUTPUT);         // switch on VDD for sensor
   digitalWrite(VDD_pin, LOW);  delay(100);
-  digitalWrite(VDD_pin, HIGH);  delay(100);
+  digitalWrite(VDD_pin, HIGH);
 
-  Serial.begin(115200);                 // initializing the serial port
+  Serial.begin(115200);             // initializing the serial port
   while (!Serial);
 
-  Wire.begin();                         // init I2C peripheral
+  Wire.begin();                     // init I2C peripheral
   Wire.setClock(400000);
-  delay(10);
+  delay(100);
 
   // configure sensor
   Wire.beginTransmission(ADDRESS);  // sensor address
@@ -44,7 +44,6 @@ void setup() {
   Wire.endTransmission();
 
   Serial.println("Bx, By, Bz, T | first in LSB_14 than in mT/°C, finishing with diagnosis register");
-  delay(10);
 }
 
 void loop() {    
