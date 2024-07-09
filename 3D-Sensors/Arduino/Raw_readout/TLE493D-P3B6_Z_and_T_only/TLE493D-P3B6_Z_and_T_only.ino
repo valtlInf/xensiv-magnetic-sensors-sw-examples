@@ -21,7 +21,7 @@
 #define LSB2mT 118.0    // Sensitivity for extra short range
 #define DELAY 50        // value in ms, change to modify update rate
 #define VDD_pin 15      // pin on which VDD of sensor is connected
-uint8_t buf[10];        // buffer to store received values
+uint8_t buf[6];         // buffer to store received values
 
 
 void setup() {
@@ -43,7 +43,7 @@ void setup() {
   Wire.write(0xE2);                 // [mod2] reset value is 0x00
   Wire.endTransmission();
 
-  Serial.println("Bx, By, Bz, T | first in LSB_14 than in mT/°C, finishing with diagnosis register");
+  Serial.println("Bz, T | first in LSB_14 than in mT/°C, finishing with diagnosis register");
 }
 
 void loop() {    
