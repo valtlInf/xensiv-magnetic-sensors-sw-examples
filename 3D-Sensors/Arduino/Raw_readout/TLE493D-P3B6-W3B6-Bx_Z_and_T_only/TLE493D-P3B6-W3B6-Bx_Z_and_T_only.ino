@@ -11,13 +11,13 @@
  ******************************************************************************/
  
 /* ---------------------------------------------------------------- */
-/* Very basic sketch to read out data from the TLE493D-P3B6 with    */
-/* plain I2C commands in master-controlled mode. The magnetic       */
+/* Very basic sketch to read out data from the TLE493D-P3B6-W3B6-Bx */
+/* with plain I2C commands in master-controlled mode. The magnetic  */
 /* settings are extra short-range range (50 mT).                    */
 /* ---------------------------------------------------------------- */
 
 #include <Wire.h>       // default I²C library
-#define ADDRESS 0x5D    // for the P3B6
+#define ADDRESS 0x5D    // for the P3B6 and W3B6
 #define LSB2mT 118.0    // Sensitivity for extra short range
 #define DELAY 50        // value in ms, change to modify update rate
 #define VDD_pin 15      // pin on which VDD of sensor is connected
