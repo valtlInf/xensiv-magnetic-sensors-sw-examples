@@ -1,0 +1,2 @@
+This is a basic example how to read Bx, By and Bz and T from TLE493D-P2B6 sensors in Linux environment.
+It can be tested using a TLE493D-P2B6 Shield2Go connected to RaspberryPi(or any other microcontroller using Linux environment).
