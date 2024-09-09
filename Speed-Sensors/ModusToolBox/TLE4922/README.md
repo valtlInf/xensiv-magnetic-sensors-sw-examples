@@ -1,8 +1,10 @@
-# PSoC6: Tooth Wheel Speed Measurement Using TLE4922 Speed Sensor
+# PSoC6: Tooth Wheel Speed Measurement
 
-This code example demonstrates how to measure the speed of a rotating tooth wheel using the [TLE4922](https://www.infineon.com/cms/en/product/sensor/magnetic-sensors/magnetic-speed-sensors/tle4922-xan-f/) speed sensor and PSoC6 microcontroller. The sensor outputs a PWM signal corresponding to the wheel rotation, which is read by the PSoC6. An interrupt is triggered on every rising edge of the PWM signal, allowing the calculation of the instantaneous speed based on the known pitch length of the wheel. Additionally, the system calculates the average speed when the wheel stops, defined as no pulse detected for 2 seconds.
+*Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions, and toolchains documented in this readme. They are intended to demonstrate how a solution / concept / use-case can be achieved on a particular device. For official code examples, please click [here](https://github.com/Infineon/Code-Examples-for-ModusToolbox-Software).*
 
-This setup is implemented using the ModusToolBox Eclipese-based IDE and Tera Term for UART communication, providing real-time speed monitoring and accurate average speed calculation for various applications.
+This code example demonstrates how to measure the speed of a rotating tooth wheel using the TLE4922 speed sensor and PSoC6 microcontroller. The sensor outputs a PWM signal corresponding to the wheel rotation, which is read by the PSoC6. An interrupt is triggered on every rising edge of the PWM signal, allowing the calculation of the instantaneous speed based on the known pitch length of the wheel. Additionally, the system calculates the average speed when the wheel stops, defined as no pulse detected for 2 seconds.
+
+This setup is implemented using the ModusToolBox Eclipse-based IDE and Tera Term for UART communication, providing real-time speed monitoring and accurate average speed calculation for various applications.
 
 [View this README on GitHub.](replace_code_example_github_readme_url)
 
@@ -13,7 +15,7 @@ This setup is implemented using the ModusToolBox Eclipese-based IDE and Tera Ter
 - Board support package (BSP) minimum required version: 4.0.0
 - Programming language: C
 - Associated parts: All [PSoC&trade; 6 MCU](https://www.infineon.com/cms/en/product/microcontroller/32-bit-psoc-arm-cortex-microcontroller/psoc-6-32-bit-arm-cortex-m4-mcu) parts
-- [TLE4922](https://www.infineon.com/cms/en/product/sensor/magnetic-sensors/magnetic-speed-sensors/tle4922-xan-f/) speed sensor
+
 
 ## Supported toolchains (make variable 'TOOLCHAIN')
 
@@ -37,13 +39,7 @@ Use jumper wires to establish a connection between TLE4922 Speed sensor and the 
 
 1. Connect **VCC** of the sensor to the **3.3V** supply on the PSoC6 kit.
 2. Connect the **GND** pin of the sensor to the **GND** of the PSoC6 kit.
-3. Connect the **Output** of the sensor to a GPIO pin (with pull-up to VCC) on PSoC6 **P10[0]**.
-
-Refer to the connection diagram below.
-
-   **Figure 2. Connection Diagram between TLE4922 and PSoC6**
-
-   ![](images/Conn_Diagram.png)
+3. Connect the **Output** of the sensor to a GPIO pin on PSoC6 **P10[0]**.
 
 
 ## Software setup
@@ -272,7 +268,7 @@ Infineon provides a wealth of data at [www.infineon.com](https://www.infineon.co
 
 ## Document history
 
-Document title: *PSoC6: Tooth Wheel Speed Measurement*
+Document title: *CCEnnnnn* – *Title of this document*
 
  Version | Description of change
  ------- | ---------------------
