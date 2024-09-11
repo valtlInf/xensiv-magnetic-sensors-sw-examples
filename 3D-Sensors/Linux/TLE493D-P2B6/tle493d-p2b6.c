@@ -60,11 +60,11 @@ int main(){
         }
         
         //concatenating the 12-bit data and multiplying by the resolution to get actual values
-        __double_t X = (__double_t)((((data[0]<<8) | (data[4] & 0xF0)) >> 4) * B_sens); 
-        __double_t Y = (__double_t)((((data[1]<<8) | ((data[4] & 0x0F) << 4)) >> 4) * B_sens);
-        __double_t Z = (__double_t)((((data[2]<<8) | ((data[5] & 0x0F) << 4)) >> 4) * B_sens);
+        double X = (double)((((data[0]<<8) | (data[4] & 0xF0)) >> 4) * B_sens); 
+        double Y = (double)((((data[1]<<8) | ((data[4] & 0x0F) << 4)) >> 4) * B_sens);
+        double Z = (double)((((data[2]<<8) | ((data[5] & 0x0F) << 4)) >> 4) * B_sens);
         
-        __double_t T = (((data[3] << 4) | (data[5] >> 4)) * T_sens);
+        double T = (double)(((data[3] << 4) | (data[5] >> 4)) * T_sens);
 
         /*---------------------------------------------------------------------------------------------*/
         /*----------------------------------Enter your code here---------------------------------------*/
