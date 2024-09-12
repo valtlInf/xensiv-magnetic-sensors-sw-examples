@@ -1,0 +1,623 @@
+2023/02/10 15:18:30 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2023/02/10 15:28:40 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2023/02/10 15:28:48 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2023/02/10 15:33:30 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2023/02/10 17:34:59 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2023/02/13 11:18:08 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2023/05/16 09:46:06 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2023/05/23 11:11:49 Starting C:\Infineon\Tools\Config Wizard for MOTIX MCU\2.7.2.202206291845\/ConfigWizard.exe with arguments: "C:\Users\AdithyaS\MagneticSensorSoftware\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X\RTE\Device\TLE9879QXA40\config.icwp" "-ddevice=TLE9879QXA40"
+2024/07/30 09:37:30 Started Launch Tool 
+2024/07/30 09:37:30 Started as PID 21028
+2024/07/30 09:37:30 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 09:37:30 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 09:37:30 Reading tool data
+2024/07/30 09:37:30 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 09:37:30 Validating tool data
+2024/07/30 09:37:30 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 09:37:30 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 09:37:30 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 09:37:30 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 22560
+2024/07/30 09:37:30 Starting Launcher Service
+2024/07/30 09:37:30 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 09:37:30 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 09:37:30 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21520
+2024/07/30 10:05:44 Started Launch Tool 
+2024/07/30 10:05:44 Started as PID 4144
+2024/07/30 10:05:44 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:05:44 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:05:44 Reading tool data
+2024/07/30 10:05:44 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:05:44 Validating tool data
+2024/07/30 10:05:44 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:05:44 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:05:44 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:05:44 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 9128
+2024/07/30 10:05:44 Starting Launcher Service
+2024/07/30 10:05:44 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:05:44 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:05:44 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 11472
+2024/07/30 10:10:41 Started Launch Tool 
+2024/07/30 10:10:41 Started as PID 23512
+2024/07/30 10:10:41 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:10:41 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:10:41 Reading tool data
+2024/07/30 10:10:41 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:10:41 Validating tool data
+2024/07/30 10:10:41 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:10:41 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:10:41 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:10:41 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 25988
+2024/07/30 10:10:41 Starting Launcher Service
+2024/07/30 10:10:41 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:10:41 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:10:41 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26200
+2024/07/30 10:10:52 Started Launch Tool 
+2024/07/30 10:10:52 Started as PID 4028
+2024/07/30 10:10:52 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:10:52 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:10:52 Reading tool data
+2024/07/30 10:10:52 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:10:52 Validating tool data
+2024/07/30 10:10:52 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:10:52 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:10:52 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:10:52 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 4252
+2024/07/30 10:10:52 Starting Launcher Service
+2024/07/30 10:10:52 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:10:52 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:10:52 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 23240
+2024/07/30 10:19:23 Started Launch Tool 
+2024/07/30 10:19:23 Started as PID 24332
+2024/07/30 10:19:23 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:19:23 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:19:23 Reading tool data
+2024/07/30 10:19:23 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:19:23 Validating tool data
+2024/07/30 10:19:23 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:19:23 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:19:23 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:19:23 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 26428
+2024/07/30 10:19:23 Starting Launcher Service
+2024/07/30 10:19:23 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:19:23 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:19:23 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 20376
+2024/07/30 10:40:01 Started Launch Tool 
+2024/07/30 10:40:01 Started as PID 20268
+2024/07/30 10:40:01 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:40:01 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:40:01 Reading tool data
+2024/07/30 10:40:01 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:40:01 Validating tool data
+2024/07/30 10:40:01 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:40:01 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:40:01 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:40:01 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 21576
+2024/07/30 10:40:01 Starting Launcher Service
+2024/07/30 10:40:01 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:40:01 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:40:01 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 4496
+2024/07/30 10:40:32 Started Launch Tool 
+2024/07/30 10:40:32 Started as PID 22648
+2024/07/30 10:40:32 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:40:32 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:40:32 Reading tool data
+2024/07/30 10:40:32 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:40:32 Validating tool data
+2024/07/30 10:40:32 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:40:32 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:40:32 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:40:32 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 18392
+2024/07/30 10:40:32 Starting Launcher Service
+2024/07/30 10:40:32 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:40:32 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:40:32 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 4728
+2024/07/30 10:42:41 Started Launch Tool 
+2024/07/30 10:42:41 Started as PID 26988
+2024/07/30 10:42:41 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:42:41 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:42:41 Reading tool data
+2024/07/30 10:42:41 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:42:41 Validating tool data
+2024/07/30 10:42:41 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:42:41 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:42:41 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:42:41 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 27720
+2024/07/30 10:42:41 Starting Launcher Service
+2024/07/30 10:42:41 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:42:41 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:42:41 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26000
+2024/07/30 10:44:00 Started Launch Tool 
+2024/07/30 10:44:00 Started as PID 20400
+2024/07/30 10:44:00 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:44:00 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:44:00 Reading tool data
+2024/07/30 10:44:00 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:44:00 Validating tool data
+2024/07/30 10:44:00 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:44:00 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:44:00 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:44:00 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 23808
+2024/07/30 10:44:00 Starting Launcher Service
+2024/07/30 10:44:00 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:44:00 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:44:00 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 18392
+2024/07/30 10:47:34 Started Launch Tool 
+2024/07/30 10:47:34 Started as PID 25096
+2024/07/30 10:47:34 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:47:34 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 10:47:34 Reading tool data
+2024/07/30 10:47:34 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 10:47:34 Validating tool data
+2024/07/30 10:47:34 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 10:47:34 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 10:47:34 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 10:47:34 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 12840
+2024/07/30 10:47:34 Starting Launcher Service
+2024/07/30 10:47:34 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 10:47:34 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 10:47:34 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 13712
+2024/07/30 11:01:49 Started Launch Tool 
+2024/07/30 11:01:49 Started as PID 21864
+2024/07/30 11:01:49 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 11:01:49 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 11:01:49 Reading tool data
+2024/07/30 11:01:49 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 11:01:49 Validating tool data
+2024/07/30 11:01:49 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 11:01:49 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 11:01:49 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 11:01:49 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 22848
+2024/07/30 11:01:49 Starting Launcher Service
+2024/07/30 11:01:49 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 11:01:49 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 11:01:49 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27460
+2024/07/30 11:18:51 Started Launch Tool 
+2024/07/30 11:18:51 Started as PID 25120
+2024/07/30 11:18:51 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 11:18:51 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 11:18:51 Reading tool data
+2024/07/30 11:18:51 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 11:18:51 Validating tool data
+2024/07/30 11:18:51 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 11:18:51 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 11:18:51 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 11:18:51 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 11696
+2024/07/30 11:18:51 Starting Launcher Service
+2024/07/30 11:18:51 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 11:18:51 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 11:18:51 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 9176
+2024/07/30 11:35:24 Started Launch Tool 
+2024/07/30 11:35:24 Started as PID 29220
+2024/07/30 11:35:24 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 11:35:24 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/30 11:35:24 Reading tool data
+2024/07/30 11:35:24 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/30 11:35:24 Validating tool data
+2024/07/30 11:35:24 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/30 11:35:24 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/30 11:35:24 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/30 11:35:24 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 28452
+2024/07/30 11:35:24 Starting Launcher Service
+2024/07/30 11:35:24 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/30 11:35:24 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/30 11:35:24 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 28964
+2024/07/31 04:23:31 Started Launch Tool 
+2024/07/31 04:23:31 Started as PID 740
+2024/07/31 04:23:31 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 04:23:31 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 04:23:31 Reading tool data
+2024/07/31 04:23:31 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 04:23:31 Validating tool data
+2024/07/31 04:23:31 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 04:23:31 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 04:23:31 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 04:23:31 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 14384
+2024/07/31 04:23:31 Starting Launcher Service
+2024/07/31 04:23:32 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 04:23:32 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 04:23:32 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 14792
+2024/07/31 04:28:20 Started Launch Tool 
+2024/07/31 04:28:20 Started as PID 4380
+2024/07/31 04:28:20 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 04:28:20 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 04:28:20 Reading tool data
+2024/07/31 04:28:20 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 04:28:20 Validating tool data
+2024/07/31 04:28:20 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 04:28:20 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 04:28:20 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 04:28:20 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 14488
+2024/07/31 04:28:20 Starting Launcher Service
+2024/07/31 04:28:20 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 04:28:20 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 04:28:20 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 10048
+2024/07/31 04:49:47 Started Launch Tool 
+2024/07/31 04:49:47 Started as PID 14048
+2024/07/31 04:49:47 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 04:49:47 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 04:49:47 Reading tool data
+2024/07/31 04:49:47 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 04:49:47 Validating tool data
+2024/07/31 04:49:47 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 04:49:47 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 04:49:47 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 04:49:47 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 20136
+2024/07/31 04:49:47 Starting Launcher Service
+2024/07/31 04:49:47 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 04:49:47 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 04:49:47 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21788
+2024/07/31 05:10:03 Started Launch Tool 
+2024/07/31 05:10:03 Started as PID 21712
+2024/07/31 05:10:03 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 05:10:03 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 05:10:03 Reading tool data
+2024/07/31 05:10:03 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 05:10:03 Validating tool data
+2024/07/31 05:10:03 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 05:10:03 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 05:10:03 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 05:10:03 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 20428
+2024/07/31 05:10:03 Starting Launcher Service
+2024/07/31 05:10:03 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 05:10:03 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 05:10:03 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 10840
+2024/07/31 06:23:35 Started Launch Tool 
+2024/07/31 06:23:35 Started as PID 15984
+2024/07/31 06:23:35 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:23:35 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:23:35 Reading tool data
+2024/07/31 06:23:35 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:23:35 Validating tool data
+2024/07/31 06:23:35 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:23:35 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:23:35 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:23:35 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 19724
+2024/07/31 06:23:35 Starting Launcher Service
+2024/07/31 06:23:35 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:23:35 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:23:35 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21128
+2024/07/31 06:43:29 Started Launch Tool 
+2024/07/31 06:43:29 Started as PID 11512
+2024/07/31 06:43:29 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:43:29 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:43:29 Reading tool data
+2024/07/31 06:43:29 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:43:29 Validating tool data
+2024/07/31 06:43:29 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:43:29 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:43:29 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:43:29 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 11888
+2024/07/31 06:43:29 Starting Launcher Service
+2024/07/31 06:43:29 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:43:29 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:43:29 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 13324
+2024/07/31 06:44:07 Started Launch Tool 
+2024/07/31 06:44:07 Started as PID 16236
+2024/07/31 06:44:07 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:44:07 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:44:07 Reading tool data
+2024/07/31 06:44:07 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:44:07 Validating tool data
+2024/07/31 06:44:07 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:44:07 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:44:07 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:44:07 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 11304
+2024/07/31 06:44:07 Starting Launcher Service
+2024/07/31 06:44:07 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:44:07 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:44:07 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 3052
+2024/07/31 06:46:02 Started Launch Tool 
+2024/07/31 06:46:02 Started as PID 9984
+2024/07/31 06:46:02 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:46:02 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:46:02 Reading tool data
+2024/07/31 06:46:02 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:46:02 Validating tool data
+2024/07/31 06:46:02 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:46:02 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:46:02 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:46:02 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 10932
+2024/07/31 06:46:02 Starting Launcher Service
+2024/07/31 06:46:02 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:46:02 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:46:02 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 4420
+2024/07/31 06:48:09 Started Launch Tool 
+2024/07/31 06:48:09 Started as PID 22232
+2024/07/31 06:48:09 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:48:09 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:48:09 Reading tool data
+2024/07/31 06:48:09 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:48:09 Validating tool data
+2024/07/31 06:48:09 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:48:09 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:48:09 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:48:09 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 3920
+2024/07/31 06:48:09 Starting Launcher Service
+2024/07/31 06:48:09 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:48:09 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:48:09 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 20816
+2024/07/31 06:51:16 Started Launch Tool 
+2024/07/31 06:51:16 Started as PID 22756
+2024/07/31 06:51:16 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:51:16 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:51:16 Reading tool data
+2024/07/31 06:51:16 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:51:16 Validating tool data
+2024/07/31 06:51:16 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:51:16 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:51:16 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:51:16 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 9620
+2024/07/31 06:51:16 Starting Launcher Service
+2024/07/31 06:51:16 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:51:16 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:51:16 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 10748
+2024/07/31 06:55:14 Started Launch Tool 
+2024/07/31 06:55:14 Started as PID 14436
+2024/07/31 06:55:14 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:55:14 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:55:14 Reading tool data
+2024/07/31 06:55:14 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:55:14 Validating tool data
+2024/07/31 06:55:14 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:55:14 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:55:14 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:55:14 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 23016
+2024/07/31 06:55:14 Starting Launcher Service
+2024/07/31 06:55:14 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:55:14 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:55:14 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 16156
+2024/07/31 06:57:57 Started Launch Tool 
+2024/07/31 06:57:57 Started as PID 17236
+2024/07/31 06:57:57 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:57:57 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 06:57:57 Reading tool data
+2024/07/31 06:57:57 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 06:57:57 Validating tool data
+2024/07/31 06:57:57 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 06:57:57 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 06:57:57 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 06:57:57 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 23512
+2024/07/31 06:57:57 Starting Launcher Service
+2024/07/31 06:57:57 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 06:57:57 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 06:57:57 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 11536
+2024/07/31 08:15:39 Started Launch Tool 
+2024/07/31 08:15:39 Started as PID 15312
+2024/07/31 08:15:39 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:15:39 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 08:15:39 Reading tool data
+2024/07/31 08:15:39 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 08:15:39 Validating tool data
+2024/07/31 08:15:39 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 08:15:39 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:15:39 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 08:15:39 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 11088
+2024/07/31 08:15:39 Starting Launcher Service
+2024/07/31 08:15:39 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 08:15:39 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 08:15:39 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 16468
+2024/07/31 08:39:38 Started Launch Tool 
+2024/07/31 08:39:38 Started as PID 22652
+2024/07/31 08:39:38 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:39:38 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 08:39:38 Reading tool data
+2024/07/31 08:39:38 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 08:39:38 Validating tool data
+2024/07/31 08:39:38 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 08:39:38 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:39:38 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 08:39:38 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 23124
+2024/07/31 08:39:38 Starting Launcher Service
+2024/07/31 08:39:38 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 08:39:38 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 08:39:38 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 516
+2024/07/31 08:48:14 Started Launch Tool 
+2024/07/31 08:48:14 Started as PID 20700
+2024/07/31 08:48:14 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:48:14 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 08:48:14 Reading tool data
+2024/07/31 08:48:14 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 08:48:14 Validating tool data
+2024/07/31 08:48:14 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 08:48:14 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:48:14 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 08:48:14 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 11740
+2024/07/31 08:48:14 Starting Launcher Service
+2024/07/31 08:48:14 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 08:48:14 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 08:48:14 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25444
+2024/07/31 08:49:06 Started Launch Tool 
+2024/07/31 08:49:06 Started as PID 3724
+2024/07/31 08:49:06 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:49:06 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 08:49:06 Reading tool data
+2024/07/31 08:49:06 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 08:49:06 Validating tool data
+2024/07/31 08:49:06 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 08:49:06 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:49:06 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 08:49:06 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 23684
+2024/07/31 08:49:06 Starting Launcher Service
+2024/07/31 08:49:07 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 08:49:07 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 08:49:07 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 1132
+2024/07/31 08:54:01 Started Launch Tool 
+2024/07/31 08:54:01 Started as PID 13804
+2024/07/31 08:54:01 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:54:01 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 08:54:01 Reading tool data
+2024/07/31 08:54:01 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 08:54:01 Validating tool data
+2024/07/31 08:54:01 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 08:54:01 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:54:01 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 08:54:01 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 23644
+2024/07/31 08:54:01 Starting Launcher Service
+2024/07/31 08:54:01 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 08:54:01 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 08:54:01 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 18772
+2024/07/31 08:54:56 Started Launch Tool 
+2024/07/31 08:54:56 Started as PID 25412
+2024/07/31 08:54:56 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:54:56 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 08:54:56 Reading tool data
+2024/07/31 08:54:56 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 08:54:56 Validating tool data
+2024/07/31 08:54:56 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 08:54:56 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 08:54:56 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 08:54:56 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 20076
+2024/07/31 08:54:56 Starting Launcher Service
+2024/07/31 08:54:56 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 08:54:56 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 08:54:56 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 22228
+2024/07/31 09:04:21 Started Launch Tool 
+2024/07/31 09:04:21 Started as PID 3528
+2024/07/31 09:04:21 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:04:21 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 09:04:21 Reading tool data
+2024/07/31 09:04:21 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 09:04:21 Validating tool data
+2024/07/31 09:04:21 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 09:04:21 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:04:21 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 09:04:21 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 7540
+2024/07/31 09:04:21 Starting Launcher Service
+2024/07/31 09:04:21 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 09:04:21 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 09:04:21 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 22112
+2024/07/31 09:17:10 Started Launch Tool 
+2024/07/31 09:17:10 Started as PID 23672
+2024/07/31 09:17:10 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:17:10 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 09:17:10 Reading tool data
+2024/07/31 09:17:10 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 09:17:10 Validating tool data
+2024/07/31 09:17:10 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 09:17:10 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:17:10 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 09:17:10 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 17972
+2024/07/31 09:17:10 Starting Launcher Service
+2024/07/31 09:17:10 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 09:17:10 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 09:17:10 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 8028
+2024/07/31 09:29:24 Started Launch Tool 
+2024/07/31 09:29:24 Started as PID 11144
+2024/07/31 09:29:24 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:29:24 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 09:29:24 Reading tool data
+2024/07/31 09:29:24 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 09:29:24 Validating tool data
+2024/07/31 09:29:24 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 09:29:24 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:29:24 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 09:29:24 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 3052
+2024/07/31 09:29:24 Starting Launcher Service
+2024/07/31 09:29:24 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 09:29:24 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 09:29:24 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 20508
+2024/07/31 09:34:06 Started Launch Tool 
+2024/07/31 09:34:06 Started as PID 24400
+2024/07/31 09:34:06 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:34:06 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/07/31 09:34:06 Reading tool data
+2024/07/31 09:34:06 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/07/31 09:34:06 Validating tool data
+2024/07/31 09:34:06 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/07/31 09:34:06 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/07/31 09:34:06 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/07/31 09:34:06 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 25288
+2024/07/31 09:34:06 Starting Launcher Service
+2024/07/31 09:34:06 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/07/31 09:34:06 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/07/31 09:34:06 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 11304
+2024/08/20 10:44:15 Started Launch Tool 
+2024/08/20 10:44:15 Started as PID 28820
+2024/08/20 10:44:15 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 10:44:15 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/08/20 10:44:15 Reading tool data
+2024/08/20 10:44:15 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/08/20 10:44:15 Validating tool data
+2024/08/20 10:44:15 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/08/20 10:44:15 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 10:44:15 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/08/20 10:44:15 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 28572
+2024/08/20 10:44:15 Starting Launcher Service
+2024/08/20 10:44:15 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/08/20 10:44:15 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/08/20 10:44:15 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26088
+2024/08/20 10:52:17 Started Launch Tool 
+2024/08/20 10:52:17 Started as PID 28268
+2024/08/20 10:52:17 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 10:52:17 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/08/20 10:52:17 Reading tool data
+2024/08/20 10:52:17 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/08/20 10:52:17 Validating tool data
+2024/08/20 10:52:17 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/08/20 10:52:17 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 10:52:17 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/08/20 10:52:17 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 28336
+2024/08/20 10:52:17 Starting Launcher Service
+2024/08/20 10:52:17 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/08/20 10:52:17 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/08/20 10:52:17 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 28652
+2024/08/20 11:04:17 Started Launch Tool 
+2024/08/20 11:04:17 Started as PID 28552
+2024/08/20 11:04:17 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 11:04:17 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/08/20 11:04:17 Reading tool data
+2024/08/20 11:04:17 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/08/20 11:04:17 Validating tool data
+2024/08/20 11:04:17 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/08/20 11:04:17 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 11:04:17 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/08/20 11:04:17 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 23824
+2024/08/20 11:04:17 Starting Launcher Service
+2024/08/20 11:04:17 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/08/20 11:04:17 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/08/20 11:04:17 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25168
+2024/08/20 11:08:53 Started Launch Tool 
+2024/08/20 11:08:53 Started as PID 10784
+2024/08/20 11:08:53 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 11:08:53 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/08/20 11:08:53 Reading tool data
+2024/08/20 11:08:53 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/08/20 11:08:53 Validating tool data
+2024/08/20 11:08:53 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/08/20 11:08:53 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 11:08:53 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/08/20 11:08:53 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 21076
+2024/08/20 11:08:53 Starting Launcher Service
+2024/08/20 11:08:53 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/08/20 11:08:53 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/08/20 11:08:53 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 23812
+2024/08/20 12:02:02 Started Launch Tool 
+2024/08/20 12:02:02 Started as PID 17780
+2024/08/20 12:02:02 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 12:02:02 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/08/20 12:02:02 Reading tool data
+2024/08/20 12:02:02 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/08/20 12:02:02 Validating tool data
+2024/08/20 12:02:02 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/08/20 12:02:02 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/08/20 12:02:02 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/08/20 12:02:02 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 25852
+2024/08/20 12:02:02 Starting Launcher Service
+2024/08/20 12:02:02 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/08/20 12:02:02 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/08/20 12:02:02 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 24824
+2024/09/12 09:59:28 Started Launch Tool 
+2024/09/12 09:59:28 Started as PID 17172
+2024/09/12 09:59:28 Started with arguments []string{"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/09/12 09:59:28 Started in directory C:\Users\AdithyaS\MSS_SW\SSC_test_Final\Boards\Infineon\TLE9879_EvalKit\SSC1_SEND_EXAMPLE_TLE987X
+2024/09/12 09:59:28 Reading tool data
+2024/09/12 09:59:28 Reading "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2024/09/12 09:59:28 Validating tool data
+2024/09/12 09:59:28 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2024/09/12 09:59:28 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\AdithyaS\\MSS_SW\\SSC_test_Final\\Boards\\Infineon\\TLE9879_EvalKit\\SSC1_SEND_EXAMPLE_TLE987X\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2024/09/12 09:59:28 Starting "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2024/09/12 09:59:28 Started "C:\\Users\\AdithyaS\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 33052
+2024/09/12 09:59:28 Starting Launcher Service
+2024/09/12 09:59:28 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2024/09/12 09:59:28 Starting "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\AdithyaS"
+2024/09/12 09:59:28 Started "C:\\Users\\AdithyaS\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 11220
