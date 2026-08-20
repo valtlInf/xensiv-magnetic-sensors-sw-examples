@@ -1,0 +1,203 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.43.1.0
+Copyright (C) 2025 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Emanuel-Marius Andrei, Infineon technologies, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.43.0.0
+Toolchain Path:  C:\Users\AndreEmanuel\AppData\Local\Keil_v5\ARM\ARMCLANG\Bin
+C Compiler:      ArmClang.exe V6.24
+Assembler:       Armasm.exe V6.24
+Linker/Locator:  ArmLink.exe V6.24
+Library Manager: ArmAr.exe V6.24
+Hex Converter:   FromElf.exe V6.24
+CPU DLL:         SARMCM3.DLL V5.43.0.0
+Dialog DLL:      DCM.DLL V1.17.5.0
+Target DLL:      Segger\JL2CM3.dll V2.99.45.0
+Dialog DLL:      TCM.DLL V1.56.6.0
+ 
+<h2>Project:</h2>
+C:\Users\AndreEmanuel\Desktop\tle5502_tle987x_integrationexample-main\TLE5502_TLE987x_Integration_Example.uvprojx
+Project File Date:  08/13/2026
+
+<h2>Output:</h2>
+*** Using Compiler 'V6.24', folder: 'C:\Users\AndreEmanuel\AppData\Local\Keil_v5\ARM\ARMCLANG\Bin'
+Build target 'src'
+compiling adc2.c...
+compiling main.c...
+src/Controller/TLE987x_GPIO/TLE987x_GPIO.c(4): warning: unused parameter 'pin' [-Wunused-parameter]
+    4 | void GPIO_SetOutputLevelLow(volatile uint8 *port, uint8_t pin, uint8_t msk)
+      |                                                           ^
+src/Controller/TLE987x_GPIO/TLE987x_GPIO.c(14): warning: unused parameter 'pin' [-Wunused-parameter]
+   14 | void GPIO_TogglePin(volatile uint8 *port, uint8_t pin, uint8_t msk)
+      |                                                   ^
+2 warnings generated.
+compiling TLE987x_GPIO.c...
+compiling lin.c...
+compiling TLE987x_ADC.c...
+compiling dma.c...
+compiling pmu.c...
+compiling TLE5502.c...
+compiling isr.c...
+compiling int.c...
+compiling adc1.c...
+compiling port.c...
+compiling uart.c...
+compiling wdt1.c...
+compiling system_tle987x.c...
+compiling scu.c...
+compiling tle_device.c...
+linking...
+Program Size: Code=9988 RO-data=248 RW-data=8 ZI-data=544  
+".\Objects\TLE5502_TLE987x_Integration_Example.axf" - 0 Error(s), 2 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                https://www.keil.com/pack/ARM.CMSIS.6.3.0.pack
+                ARM::CMSIS@6.3.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 6.2.0
+
+Package Vendor: Infineon
+                https://itools.infineon.com/cmsis_packs/TLE987x/Infineon.TLE987x_DFP.1.6.2.pack
+                Infineon::TLE987x_DFP@1.6.2
+                Infineon TLE987x Series Device Support
+   * Component: ConfigWizard_v2 Version: 2.1.12
+   * Component: ADC1 Version: 0.3.1
+   * Component: ADC2 Version: 0.2.7
+   * Component: BOOTROM Version: 0.3.4
+   * Component: DMA Version: 0.2.7
+   * Component: INT Version: 0.2.4
+   * Component: ISR Version: 0.3.0
+   * Component: LIN Version: 0.2.1
+   * Component: PMU Version: 0.2.3
+   * Component: PORT Version: 0.6.1
+   * Component: SCU Version: 0.5.9
+   * Component: UART Version: 0.2.5
+   * Component: WDT1 Version: 0.3.4
+   * Component: Startup Version: 1.2.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.ARM_Compiler.1.7.2.pack
+                Keil::ARM_Compiler@1.7.2
+                Keil ARM Compiler extensions for ARM Compiler 5 and ARM Compiler 6
+   * Component: STDIN Variant: User Version: 1.2.0
+   * Component: STDOUT Variant: User Version: 1.2.0
+   * Component: TTY Variant: User Version: 1.2.0
+
+<h2>Collection of Component include folders:</h2>
+  ./RTE/Device/TLE9872QXA40
+  ./RTE/_src
+  C:/Users/AndreEmanuel/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE@6.2.0
+
+   * Component: Infineon::Device:ConfigWizard_v2@2.1.12
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/ccu6_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/isr_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/uart_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/scu_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/ssc_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/bsl_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/gpt12e_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/mon_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/adc1_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/bdrv_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/int_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/timer2x_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/adc2_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/lin_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/csa_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/pmu_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/port_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/timer3_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/dma_defines.h
+
+   * Component: Infineon::Device:SDK:ADC1@0.3.1
+      Source file:   Device/SDK/src/adc1.c
+      Include file:  Device/SDK/inc/adc1.h
+
+   * Component: Infineon::Device:SDK:ADC2@0.2.7
+      Source file:   Device/SDK/src/adc2.c
+      Include file:  Device/SDK/inc/adc2.h
+
+   * Component: Infineon::Device:SDK:BOOTROM@0.3.4
+      Source file:   Device/SDK/src/bootrom.c
+      Include file:  Device/SDK/inc/bootrom.h
+
+   * Component: Infineon::Device:SDK:DMA@0.2.7
+      Source file:   Device/SDK/src/dma.c
+      Include file:  Device/SDK/inc/dma.h
+
+   * Component: Infineon::Device:SDK:INT@0.2.4
+      Include file:  Device/SDK/inc/int.h
+      Source file:   Device/SDK/src/int.c
+
+   * Component: Infineon::Device:SDK:ISR@0.3.0
+      Source file:   Device/SDK/src/isr.c
+      Include file:  Device/SDK/inc/isr.h
+
+   * Component: Infineon::Device:SDK:LIN@0.2.1
+      Include file:  Device/SDK/inc/lin.h
+      Source file:   Device/SDK/src/lin.c
+
+   * Component: Infineon::Device:SDK:PMU@0.2.3
+      Source file:   Device/SDK/src/pmu.c
+      Include file:  Device/SDK/inc/pmu.h
+
+   * Component: Infineon::Device:SDK:PORT@0.6.1
+      Include file:  Device/SDK/inc/port.h
+      Source file:   Device/SDK/src/port.c
+
+   * Component: Infineon::Device:SDK:SCU@0.5.9
+      Include file:  Device/SDK/inc/scu.h
+      Source file:   Device/SDK/src/scu.c
+
+   * Component: Infineon::Device:SDK:UART@0.2.5
+      Source file:   Device/SDK/src/uart.c
+      Include file:  Device/SDK/inc/uart.h
+
+   * Component: Infineon::Device:SDK:WDT1@0.3.4
+      Include file:  Device/SDK/inc/wdt1.h
+      Source file:   Device/SDK/src/wdt1.c
+
+   * Component: Infineon::Device:Startup@1.2.0
+      Include file:  Device/Include/tle987x.h
+      Source file:   Device/SDK/app/main.c
+      Source file:   Device/Source/ARM/startup_tle987x.S
+      Include file:  Device/Include/tle_device.h
+      Include file:  Device/Include/types.h
+      Source file:   Device/Include/sfr_access.h
+      Source file:   Device/Source/system_tle987x.c
+      Include file:  Device/Include/system_tle987x.h
+      Include file:  Device/Include/eval_board.h
+      Include file:  Device/Include/tle_variants.h
+      Include file:  Device/Include/cmsis_misra.h
+      Source file:   Device/Source/tle_device.c
+
+   * Component: Keil::Compiler&ARM Compiler:I/O:STDIN&User@1.2.0
+      Source file:   Source/retarget_io.c
+      Source file:   Template/stdin_USART.c
+      Source file:   Template/stdin_keyboard.c
+      Source file:   Template/stdin_user.c
+
+   * Component: Keil::Compiler&ARM Compiler:I/O:STDOUT&User@1.2.0
+      Source file:   Template/stdout_USART.c
+      Source file:   Source/retarget_io.c
+      Source file:   Template/stdout_user.c
+      Source file:   Template/stdout_display.c
+
+   * Component: Keil::Compiler&ARM Compiler:I/O:TTY&User@1.2.0
+      Source file:   Source/retarget_io.c
+      Source file:   Template/tty_user.c
+Build Time Elapsed:  00:00:05
+</pre>
+</body>
+</html>
