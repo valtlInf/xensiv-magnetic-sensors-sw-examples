@@ -994,7 +994,8 @@ async function connect() {
   try {
     // Restrict picker to the target Cypress device VID/PID.
     st.port=await navigator.serial.requestPort({
-      filters: [{ usbVendorId: USB_VID, usbProductId: USB_PID }],
+      filters: [],
+     // filters: [{ usbVendorId: USB_VID, usbProductId: USB_PID }],
     });
     await st.port.open({baudRate:BAUDRATE, dataBits:8, stopBits:1, parity:'none'});
   } catch(err) {
