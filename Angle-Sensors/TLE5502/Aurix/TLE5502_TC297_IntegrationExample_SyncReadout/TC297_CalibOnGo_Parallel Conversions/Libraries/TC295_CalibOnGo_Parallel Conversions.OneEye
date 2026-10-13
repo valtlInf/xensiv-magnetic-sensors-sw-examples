@@ -1,0 +1,24 @@
+<root version="2.66.0">
+    <signals>
+        <var name="elf" type="group" offset="0" access="read-write" model-update-value-enabled="true">
+            <var name="angle_read" type="float" offset="0" access="read-write" default="0">
+                <item-configuration>
+                    <title><![CDATA[angle_read]]></title>
+                </item-configuration>
+            </var>
+        </var>
+    </signals>
+    <layout>
+        <graph buffer-depth="6000" multi-channel="false" legend-pos="top" division-x="10" division-y="10" offset-y="5" time-per-division-x="0.10000000149011612" unit-x="s" x-axis-visible="true" mode="rolling-time" histogram-x-min="0" histogram-x-max="1" histogram-bin-count="10" y-autoscale="false" control-visible="true">
+            <channel data-in="elf.angle_read" enabled="defined-by-connection" offset-x="0" offset-y="0" unit-per-division-y="1" pen-width="1" color="blue" y-axis-visible="true"/>
+        </graph>
+    </layout>
+    <interface>
+        <item-configuration>
+            <id><![CDATA[das-itf]]></id>
+        </item-configuration>
+        <port plugin="PCom_DAS::DAS" connect="true" system-key="{ADS}"/>
+    </interface>
+    <config/>
+    <debugBox elf-path="..\TriCore Debug (TASKING)\TC295_CalibOnGo_Parallel Conversions.elf" watches="angle_read" com-interface-id="das-itf" title="" id="elf"/>
+</root>

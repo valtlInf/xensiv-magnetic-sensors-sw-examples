@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.rt.hightec.agent.launcher.launchConfigurationType">
+    <stringAttribute key="ACC_HW" value="DAS JDS AURIX LITE KIT V1.0 (TC334) LK6ISP3F"/>
+    <booleanAttribute key="ENABLE_AGENTLOG" value="false"/>
+    <booleanAttribute key="ENABLE_FLASHING" value="true"/>
+    <booleanAttribute key="ENABLE_STOPPING" value="true"/>
+    <stringAttribute key="EXECUTABLE_PATH" value="${project_loc}/TriCore Debug (TASKING)/TLE5502_AurixCalibOnGo.elf"/>
+    <stringAttribute key="STOP_FUNCTION" value="core0_main"/>
+    <stringAttribute key="SVD" value="C:/Infineon/AURIX-Studio-1.10.24/build_system/bundled-artefacts-repo/svd/tc33xpd/1.0-1/device.svd"/>
+    <stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="TLE5502_AurixCalibOnGo"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/TLE5502_AurixCalibOnGo"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_LOCATION" value="/TLE5502_AurixCalibOnGo/TLE5502_AurixCalibOnGo TriCore Debug (TASKING).launch"/>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_PROJECT_NAME" value="TLE5502_AurixCalibOnGo"/>
+    <booleanAttribute key="org.eclipse.debug.ui.ATTR_SHARED" value="true"/>
+    <stringAttribute key="org.eclipse.tcf.debug.MemoryMap" value="[{&quot;FileName&quot;:&quot;C:/svn/Aurix/OnGoCaliLibv1.0.1/AurixOnGoCali/TLE5502_AurixCalibOnGo/TriCore Debug (TASKING)/TLE5502_AurixCalibOnGo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V1.0 (TC334) LK6ISP3F/Core 0: CPU0 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;9816b172-0d5e-4d77-ab14-fff7be302634&quot;},{&quot;FileName&quot;:&quot;C:/svn/Aurix/OnGoCaliLibv1.0.1/AurixOnGoCali/TLE5502_AurixCalibOnGo/TriCore Debug (TASKING)/TLE5502_AurixCalibOnGo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V1.0 (TC334) LK6ISP3F/Core 0: CPU0 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;97f7e5a5-17ab-4b1f-acfd-74e288c92b05&quot;}]"/>
+    <stringAttribute key="org.eclipse.tcf.debug.PeerID" value="TCP:127.0.0.1:1534"/>
+    <stringAttribute key="org.eclipse.tcf.debug.ProjectName" value="TLE5502_AurixCalibOnGo"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalAgent" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalServer" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.UseLocalAgent" value="false"/>
+    <stringAttribute key="org.eclipse.tcf.debug.executable_name" value="${project_loc}/TriCore Debug (TASKING)/TLE5502_AurixCalibOnGo.elf"/>
+    <stringAttribute key="sessionID" value="7722c65c-7b03-4b38-804d-ae58afaffc0c"/>
+</launchConfiguration>

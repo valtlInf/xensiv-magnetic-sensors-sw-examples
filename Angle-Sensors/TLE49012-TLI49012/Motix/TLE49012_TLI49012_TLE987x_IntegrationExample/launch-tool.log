@@ -1,0 +1,765 @@
+2026/07/21 12:20:49 Started Launch Tool 2.0.7
+2026/07/21 12:20:49 Started as PID 23368
+2026/07/21 12:20:49 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/21 12:20:49 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/21 12:20:49 Reading tool data
+2026/07/21 12:20:49 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/21 12:20:49 Validating tool data
+2026/07/21 12:20:49 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/21 12:20:49 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/21 12:20:49 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/21 12:20:50 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 19020
+2026/07/21 12:20:50 Starting Launcher Service
+2026/07/21 12:20:50 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/21 12:20:50 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/21 12:20:50 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19168
+2026/07/21 12:34:52 Started Launch Tool 2.0.7
+2026/07/21 12:34:52 Started as PID 24656
+2026/07/21 12:34:52 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/21 12:34:52 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/21 12:34:52 Reading tool data
+2026/07/21 12:34:52 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/21 12:34:52 Validating tool data
+2026/07/21 12:34:52 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/21 12:34:52 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/21 12:34:52 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/21 12:34:52 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 18808
+2026/07/21 12:34:52 Starting Launcher Service
+2026/07/21 12:34:52 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/21 12:34:52 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/21 12:34:52 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 4320
+2026/07/21 13:04:12 Started Launch Tool 2.0.7
+2026/07/21 13:04:12 Started as PID 16004
+2026/07/21 13:04:12 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/21 13:04:12 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/21 13:04:12 Reading tool data
+2026/07/21 13:04:12 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/21 13:04:12 Validating tool data
+2026/07/21 13:04:12 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/21 13:04:12 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/21 13:04:12 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/21 13:04:12 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 24320
+2026/07/21 13:04:12 Starting Launcher Service
+2026/07/21 13:04:12 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/21 13:04:12 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/21 13:04:12 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 28700
+2026/07/22 11:09:07 Started Launch Tool 2.0.7
+2026/07/22 11:09:07 Started as PID 27688
+2026/07/22 11:09:07 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/22 11:09:07 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/22 11:09:07 Reading tool data
+2026/07/22 11:09:07 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/22 11:09:07 Validating tool data
+2026/07/22 11:09:07 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/22 11:09:07 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/22 11:09:07 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/22 11:09:08 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 28476
+2026/07/22 11:09:08 Starting Launcher Service
+2026/07/22 11:09:08 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/22 11:09:08 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/22 11:09:09 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 28584
+2026/07/22 13:28:31 Started Launch Tool 2.0.7
+2026/07/22 13:28:31 Started as PID 3576
+2026/07/22 13:28:31 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/22 13:28:31 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/22 13:28:31 Reading tool data
+2026/07/22 13:28:31 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/22 13:28:31 Validating tool data
+2026/07/22 13:28:31 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/22 13:28:31 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/22 13:28:31 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/22 13:28:32 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 11344
+2026/07/22 13:28:32 Starting Launcher Service
+2026/07/22 13:28:32 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/22 13:28:32 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/22 13:28:32 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 36804
+2026/07/22 13:49:04 Started Launch Tool 2.0.7
+2026/07/22 13:49:04 Started as PID 25648
+2026/07/22 13:49:04 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/22 13:49:04 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/22 13:49:04 Reading tool data
+2026/07/22 13:49:04 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/22 13:49:04 Validating tool data
+2026/07/22 13:49:04 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/22 13:49:04 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/22 13:49:04 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/22 13:49:04 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 31864
+2026/07/22 13:49:04 Starting Launcher Service
+2026/07/22 13:49:04 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/22 13:49:04 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/22 13:49:04 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 29020
+2026/07/23 09:42:30 Started Launch Tool 2.0.7
+2026/07/23 09:42:30 Started as PID 6956
+2026/07/23 09:42:30 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/23 09:42:30 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/23 09:42:30 Reading tool data
+2026/07/23 09:42:30 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/23 09:42:30 Validating tool data
+2026/07/23 09:42:30 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/23 09:42:30 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/23 09:42:30 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/23 09:42:31 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 14360
+2026/07/23 09:42:31 Starting Launcher Service
+2026/07/23 09:42:31 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/23 09:42:31 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/23 09:42:33 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 2420
+2026/07/24 07:51:19 Started Launch Tool 2.0.7
+2026/07/24 07:51:19 Started as PID 16664
+2026/07/24 07:51:19 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/24 07:51:19 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/24 07:51:19 Reading tool data
+2026/07/24 07:51:19 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/24 07:51:19 Validating tool data
+2026/07/24 07:51:19 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/24 07:51:19 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/24 07:51:19 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/24 07:51:20 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 23020
+2026/07/24 07:51:20 Starting Launcher Service
+2026/07/24 07:51:20 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/24 07:51:20 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/24 07:51:21 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26512
+2026/07/24 11:34:50 Started Launch Tool 2.0.7
+2026/07/24 11:34:50 Started as PID 27292
+2026/07/24 11:34:50 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/24 11:34:50 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/24 11:34:50 Reading tool data
+2026/07/24 11:34:50 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/24 11:34:50 Validating tool data
+2026/07/24 11:34:50 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/24 11:34:50 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/24 11:34:50 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/24 11:34:51 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 21120
+2026/07/24 11:34:51 Starting Launcher Service
+2026/07/24 11:34:51 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/24 11:34:51 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/24 11:34:53 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25576
+2026/07/28 08:45:06 Started Launch Tool 2.0.7
+2026/07/28 08:45:06 Started as PID 30036
+2026/07/28 08:45:06 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 08:45:06 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 08:45:06 Reading tool data
+2026/07/28 08:45:06 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 08:45:06 Validating tool data
+2026/07/28 08:45:06 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 08:45:06 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 08:45:06 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 08:45:06 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 24396
+2026/07/28 08:45:06 Starting Launcher Service
+2026/07/28 08:45:06 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 08:45:06 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 08:45:07 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 21156
+2026/07/28 08:50:48 Started Launch Tool 2.0.7
+2026/07/28 08:50:48 Started as PID 12664
+2026/07/28 08:50:48 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 08:50:48 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 08:50:48 Reading tool data
+2026/07/28 08:50:48 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 08:50:48 Validating tool data
+2026/07/28 08:50:48 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 08:50:48 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 08:50:48 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 08:50:48 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 30052
+2026/07/28 08:50:48 Starting Launcher Service
+2026/07/28 08:50:48 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 08:50:48 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 08:50:48 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 29996
+2026/07/28 09:16:39 Started Launch Tool 2.0.7
+2026/07/28 09:16:39 Started as PID 524
+2026/07/28 09:16:39 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 09:16:39 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 09:16:39 Reading tool data
+2026/07/28 09:16:39 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 09:16:39 Validating tool data
+2026/07/28 09:16:39 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 09:16:39 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 09:16:39 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 09:16:39 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 28192
+2026/07/28 09:16:39 Starting Launcher Service
+2026/07/28 09:16:39 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 09:16:39 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 09:16:39 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 34148
+2026/07/28 09:29:23 Started Launch Tool 2.0.7
+2026/07/28 09:29:23 Started as PID 5424
+2026/07/28 09:29:23 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 09:29:23 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 09:29:23 Reading tool data
+2026/07/28 09:29:23 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 09:29:23 Validating tool data
+2026/07/28 09:29:23 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 09:29:23 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 09:29:23 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 09:29:23 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 19584
+2026/07/28 09:29:23 Starting Launcher Service
+2026/07/28 09:29:23 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 09:29:23 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 09:29:23 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 34680
+2026/07/28 09:54:43 Started Launch Tool 2.0.7
+2026/07/28 09:54:43 Started as PID 33916
+2026/07/28 09:54:43 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 09:54:43 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 09:54:43 Reading tool data
+2026/07/28 09:54:43 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 09:54:43 Validating tool data
+2026/07/28 09:54:43 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 09:54:43 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 09:54:43 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 09:54:43 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 35364
+2026/07/28 09:54:43 Starting Launcher Service
+2026/07/28 09:54:43 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 09:54:43 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 09:54:43 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 2944
+2026/07/28 10:14:02 Started Launch Tool 2.0.7
+2026/07/28 10:14:02 Started as PID 37596
+2026/07/28 10:14:02 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:14:02 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 10:14:02 Reading tool data
+2026/07/28 10:14:02 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 10:14:02 Validating tool data
+2026/07/28 10:14:02 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 10:14:02 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:14:02 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 10:14:02 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 35476
+2026/07/28 10:14:02 Starting Launcher Service
+2026/07/28 10:14:02 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 10:14:02 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 10:14:02 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 35268
+2026/07/28 10:17:28 Started Launch Tool 2.0.7
+2026/07/28 10:17:28 Started as PID 31368
+2026/07/28 10:17:28 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:17:28 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 10:17:28 Reading tool data
+2026/07/28 10:17:28 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 10:17:28 Validating tool data
+2026/07/28 10:17:28 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 10:17:28 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:17:28 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 10:17:28 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 34388
+2026/07/28 10:17:28 Starting Launcher Service
+2026/07/28 10:17:28 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 10:17:28 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 10:17:28 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 38700
+2026/07/28 10:19:03 Started Launch Tool 2.0.7
+2026/07/28 10:19:03 Started as PID 9792
+2026/07/28 10:19:03 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:19:03 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 10:19:03 Reading tool data
+2026/07/28 10:19:03 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 10:19:03 Validating tool data
+2026/07/28 10:19:03 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 10:19:03 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:19:03 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 10:19:03 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 6360
+2026/07/28 10:19:03 Starting Launcher Service
+2026/07/28 10:19:03 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 10:19:03 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 10:19:03 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27836
+2026/07/28 10:20:41 Started Launch Tool 2.0.7
+2026/07/28 10:20:41 Started as PID 29856
+2026/07/28 10:20:41 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:20:41 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 10:20:41 Reading tool data
+2026/07/28 10:20:41 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 10:20:41 Validating tool data
+2026/07/28 10:20:41 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 10:20:41 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:20:41 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 10:20:41 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 34468
+2026/07/28 10:20:41 Starting Launcher Service
+2026/07/28 10:20:41 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 10:20:41 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 10:20:41 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 38140
+2026/07/28 10:22:27 Started Launch Tool 2.0.7
+2026/07/28 10:22:27 Started as PID 36924
+2026/07/28 10:22:27 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:22:27 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 10:22:27 Reading tool data
+2026/07/28 10:22:27 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 10:22:27 Validating tool data
+2026/07/28 10:22:27 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 10:22:27 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:22:27 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 10:22:27 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 32312
+2026/07/28 10:22:27 Starting Launcher Service
+2026/07/28 10:22:27 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 10:22:27 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 10:22:27 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 18552
+2026/07/28 10:23:27 Started Launch Tool 2.0.7
+2026/07/28 10:23:27 Started as PID 28352
+2026/07/28 10:23:27 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:23:27 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 10:23:27 Reading tool data
+2026/07/28 10:23:27 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 10:23:27 Validating tool data
+2026/07/28 10:23:27 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 10:23:27 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 10:23:27 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 10:23:27 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 38056
+2026/07/28 10:23:27 Starting Launcher Service
+2026/07/28 10:23:27 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 10:23:27 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 10:23:27 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 33024
+2026/07/28 11:16:16 Started Launch Tool 2.0.7
+2026/07/28 11:16:16 Started as PID 9400
+2026/07/28 11:16:16 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 11:16:16 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 11:16:16 Reading tool data
+2026/07/28 11:16:16 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 11:16:16 Validating tool data
+2026/07/28 11:16:16 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 11:16:16 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 11:16:16 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 11:16:16 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 26080
+2026/07/28 11:16:16 Starting Launcher Service
+2026/07/28 11:16:16 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 11:16:16 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 11:16:17 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 35592
+2026/07/28 11:20:22 Started Launch Tool 2.0.7
+2026/07/28 11:20:22 Started as PID 13348
+2026/07/28 11:20:22 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 11:20:22 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/28 11:20:22 Reading tool data
+2026/07/28 11:20:22 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/28 11:20:22 Validating tool data
+2026/07/28 11:20:22 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/28 11:20:22 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/28 11:20:22 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/28 11:20:22 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 39436
+2026/07/28 11:20:22 Starting Launcher Service
+2026/07/28 11:20:22 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/28 11:20:22 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/28 11:20:22 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 30012
+2026/07/29 05:43:41 Started Launch Tool 2.0.7
+2026/07/29 05:43:41 Started as PID 18176
+2026/07/29 05:43:41 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 05:43:41 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 05:43:41 Reading tool data
+2026/07/29 05:43:41 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 05:43:41 Validating tool data
+2026/07/29 05:43:41 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 05:43:41 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 05:43:41 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 05:43:42 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 19968
+2026/07/29 05:43:42 Starting Launcher Service
+2026/07/29 05:43:42 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 05:43:42 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 05:43:43 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19008
+2026/07/29 06:01:04 Started Launch Tool 2.0.7
+2026/07/29 06:01:04 Started as PID 21832
+2026/07/29 06:01:04 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:01:04 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:01:04 Reading tool data
+2026/07/29 06:01:04 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:01:04 Validating tool data
+2026/07/29 06:01:04 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:01:04 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:01:04 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:01:04 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 25976
+2026/07/29 06:01:04 Starting Launcher Service
+2026/07/29 06:01:04 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:01:04 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:01:04 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 22828
+2026/07/29 06:07:13 Started Launch Tool 2.0.7
+2026/07/29 06:07:13 Started as PID 26288
+2026/07/29 06:07:13 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:07:13 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:07:13 Reading tool data
+2026/07/29 06:07:13 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:07:13 Validating tool data
+2026/07/29 06:07:13 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:07:13 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:07:13 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:07:13 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 26592
+2026/07/29 06:07:13 Starting Launcher Service
+2026/07/29 06:07:13 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:07:13 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:07:13 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26496
+2026/07/29 06:18:08 Started Launch Tool 2.0.7
+2026/07/29 06:18:08 Started as PID 5136
+2026/07/29 06:18:08 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:18:08 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:18:08 Reading tool data
+2026/07/29 06:18:08 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:18:08 Validating tool data
+2026/07/29 06:18:08 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:18:08 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:18:08 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:18:08 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 21408
+2026/07/29 06:18:08 Starting Launcher Service
+2026/07/29 06:18:08 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:18:08 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:18:08 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 17292
+2026/07/29 06:20:36 Started Launch Tool 2.0.7
+2026/07/29 06:20:36 Started as PID 23688
+2026/07/29 06:20:36 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:20:36 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:20:36 Reading tool data
+2026/07/29 06:20:36 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:20:36 Validating tool data
+2026/07/29 06:20:36 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:20:36 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:20:36 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:20:36 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 24692
+2026/07/29 06:20:36 Starting Launcher Service
+2026/07/29 06:20:36 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:20:36 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:20:36 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25288
+2026/07/29 06:27:33 Started Launch Tool 2.0.7
+2026/07/29 06:27:33 Started as PID 3328
+2026/07/29 06:27:33 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:27:33 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:27:33 Reading tool data
+2026/07/29 06:27:33 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:27:33 Validating tool data
+2026/07/29 06:27:33 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:27:33 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:27:33 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:27:33 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 13552
+2026/07/29 06:27:33 Starting Launcher Service
+2026/07/29 06:27:33 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:27:33 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:27:33 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 12396
+2026/07/29 06:30:17 Started Launch Tool 2.0.7
+2026/07/29 06:30:17 Started as PID 24124
+2026/07/29 06:30:17 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:30:17 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:30:17 Reading tool data
+2026/07/29 06:30:17 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:30:17 Validating tool data
+2026/07/29 06:30:17 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:30:17 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:30:17 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:30:17 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 21556
+2026/07/29 06:30:17 Starting Launcher Service
+2026/07/29 06:30:17 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:30:17 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:30:17 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 148
+2026/07/29 06:37:24 Started Launch Tool 2.0.7
+2026/07/29 06:37:24 Started as PID 1800
+2026/07/29 06:37:24 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:37:24 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:37:24 Reading tool data
+2026/07/29 06:37:24 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:37:24 Validating tool data
+2026/07/29 06:37:24 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:37:24 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:37:24 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:37:24 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 148
+2026/07/29 06:37:24 Starting Launcher Service
+2026/07/29 06:37:24 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:37:24 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:37:24 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 7444
+2026/07/29 06:43:53 Started Launch Tool 2.0.7
+2026/07/29 06:43:53 Started as PID 21344
+2026/07/29 06:43:53 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:43:53 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:43:53 Reading tool data
+2026/07/29 06:43:53 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:43:53 Validating tool data
+2026/07/29 06:43:53 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:43:53 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:43:53 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:43:53 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 26780
+2026/07/29 06:43:53 Starting Launcher Service
+2026/07/29 06:43:53 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:43:53 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:43:53 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 24948
+2026/07/29 06:47:54 Started Launch Tool 2.0.7
+2026/07/29 06:47:54 Started as PID 27488
+2026/07/29 06:47:54 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:47:54 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:47:54 Reading tool data
+2026/07/29 06:47:54 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:47:54 Validating tool data
+2026/07/29 06:47:54 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:47:54 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:47:54 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:47:54 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 3880
+2026/07/29 06:47:54 Starting Launcher Service
+2026/07/29 06:47:54 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:47:54 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:47:54 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19160
+2026/07/29 06:51:51 Started Launch Tool 2.0.7
+2026/07/29 06:51:51 Started as PID 8356
+2026/07/29 06:51:51 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:51:51 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 06:51:51 Reading tool data
+2026/07/29 06:51:51 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 06:51:51 Validating tool data
+2026/07/29 06:51:51 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 06:51:51 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 06:51:51 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 06:51:51 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 13012
+2026/07/29 06:51:51 Starting Launcher Service
+2026/07/29 06:51:51 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 06:51:51 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 06:51:51 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 20824
+2026/07/29 07:02:12 Started Launch Tool 2.0.7
+2026/07/29 07:02:12 Started as PID 28528
+2026/07/29 07:02:12 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:02:12 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 07:02:12 Reading tool data
+2026/07/29 07:02:12 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 07:02:12 Validating tool data
+2026/07/29 07:02:12 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 07:02:12 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:02:12 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 07:02:13 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 28436
+2026/07/29 07:02:13 Starting Launcher Service
+2026/07/29 07:02:13 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 07:02:13 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 07:02:13 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27360
+2026/07/29 07:05:59 Started Launch Tool 2.0.7
+2026/07/29 07:05:59 Started as PID 7024
+2026/07/29 07:05:59 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:05:59 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 07:05:59 Reading tool data
+2026/07/29 07:05:59 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 07:05:59 Validating tool data
+2026/07/29 07:05:59 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 07:05:59 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:05:59 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 07:05:59 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 27220
+2026/07/29 07:05:59 Starting Launcher Service
+2026/07/29 07:05:59 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 07:05:59 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 07:05:59 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27716
+2026/07/29 07:27:03 Started Launch Tool 2.0.7
+2026/07/29 07:27:03 Started as PID 17708
+2026/07/29 07:27:03 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:27:03 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 07:27:03 Reading tool data
+2026/07/29 07:27:03 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 07:27:03 Validating tool data
+2026/07/29 07:27:03 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 07:27:03 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:27:03 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 07:27:03 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 460
+2026/07/29 07:27:03 Starting Launcher Service
+2026/07/29 07:27:03 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 07:27:03 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 07:27:03 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26676
+2026/07/29 07:29:07 Started Launch Tool 2.0.7
+2026/07/29 07:29:07 Started as PID 26696
+2026/07/29 07:29:07 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:29:07 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 07:29:07 Reading tool data
+2026/07/29 07:29:07 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 07:29:07 Validating tool data
+2026/07/29 07:29:07 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 07:29:07 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 07:29:07 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 07:29:07 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 14636
+2026/07/29 07:29:07 Starting Launcher Service
+2026/07/29 07:29:07 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 07:29:07 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 07:29:07 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 4332
+2026/07/29 08:40:42 Started Launch Tool 2.0.7
+2026/07/29 08:40:42 Started as PID 21320
+2026/07/29 08:40:42 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 08:40:42 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 08:40:42 Reading tool data
+2026/07/29 08:40:42 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 08:40:42 Validating tool data
+2026/07/29 08:40:42 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 08:40:42 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 08:40:42 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 08:40:42 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 11968
+2026/07/29 08:40:42 Starting Launcher Service
+2026/07/29 08:40:42 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 08:40:42 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 08:40:42 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25652
+2026/07/29 09:10:45 Started Launch Tool 2.0.7
+2026/07/29 09:10:45 Started as PID 2196
+2026/07/29 09:10:45 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 09:10:45 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 09:10:45 Reading tool data
+2026/07/29 09:10:45 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 09:10:45 Validating tool data
+2026/07/29 09:10:45 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 09:10:45 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 09:10:45 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 09:10:45 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 15340
+2026/07/29 09:10:45 Starting Launcher Service
+2026/07/29 09:10:45 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 09:10:45 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 09:10:45 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 25792
+2026/07/29 09:23:17 Started Launch Tool 2.0.7
+2026/07/29 09:23:17 Started as PID 7120
+2026/07/29 09:23:17 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 09:23:17 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 09:23:17 Reading tool data
+2026/07/29 09:23:17 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 09:23:17 Validating tool data
+2026/07/29 09:23:17 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 09:23:17 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 09:23:17 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 09:23:17 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 19896
+2026/07/29 09:23:17 Starting Launcher Service
+2026/07/29 09:23:17 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 09:23:17 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 09:23:17 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 28252
+2026/07/29 10:15:25 Started Launch Tool 2.0.7
+2026/07/29 10:15:25 Started as PID 33220
+2026/07/29 10:15:25 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 10:15:25 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/29 10:15:25 Reading tool data
+2026/07/29 10:15:25 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/29 10:15:25 Validating tool data
+2026/07/29 10:15:25 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/29 10:15:25 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/29 10:15:25 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/29 10:15:25 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 24584
+2026/07/29 10:15:25 Starting Launcher Service
+2026/07/29 10:15:25 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/29 10:15:25 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/29 10:15:25 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 35072
+2026/07/30 06:32:08 Started Launch Tool 2.0.7
+2026/07/30 06:32:08 Started as PID 17760
+2026/07/30 06:32:08 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9872QXA40\\config.icwp", "-ddevice=TLE9872QXA40"}
+2026/07/30 06:32:08 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/30 06:32:08 Reading tool data
+2026/07/30 06:32:08 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/30 06:32:08 Validating tool data
+2026/07/30 06:32:08 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/30 06:32:08 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9872QXA40\\config.icwp", "-ddevice=TLE9872QXA40"}
+2026/07/30 06:32:08 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/30 06:32:08 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 22952
+2026/07/30 06:32:08 Starting Launcher Service
+2026/07/30 06:32:08 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/30 06:32:08 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/30 06:32:09 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 12276
+2026/07/30 06:38:10 Started Launch Tool 2.0.7
+2026/07/30 06:38:10 Started as PID 15628
+2026/07/30 06:38:10 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9872QXA40\\config.icwp", "-ddevice=TLE9872QXA40"}
+2026/07/30 06:38:10 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/30 06:38:10 Reading tool data
+2026/07/30 06:38:10 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/30 06:38:10 Validating tool data
+2026/07/30 06:38:10 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/30 06:38:10 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9872QXA40\\config.icwp", "-ddevice=TLE9872QXA40"}
+2026/07/30 06:38:10 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/30 06:38:10 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 26096
+2026/07/30 06:38:10 Starting Launcher Service
+2026/07/30 06:38:10 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/30 06:38:10 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/30 06:38:10 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 7464
+2026/07/30 06:44:05 Started Launch Tool 2.0.7
+2026/07/30 06:44:05 Started as PID 11140
+2026/07/30 06:44:05 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9872QXA40\\config.icwp", "-ddevice=TLE9872QXA40"}
+2026/07/30 06:44:05 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/30 06:44:05 Reading tool data
+2026/07/30 06:44:05 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/30 06:44:05 Validating tool data
+2026/07/30 06:44:05 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/30 06:44:05 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9872QXA40\\config.icwp", "-ddevice=TLE9872QXA40"}
+2026/07/30 06:44:05 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/30 06:44:05 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 15380
+2026/07/30 06:44:05 Starting Launcher Service
+2026/07/30 06:44:05 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/30 06:44:05 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/30 06:44:05 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 26216
+2026/07/30 07:21:22 Started Launch Tool 2.0.7
+2026/07/30 07:21:22 Started as PID 17124
+2026/07/30 07:21:22 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/30 07:21:22 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/30 07:21:22 Reading tool data
+2026/07/30 07:21:22 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/30 07:21:22 Validating tool data
+2026/07/30 07:21:22 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/30 07:21:22 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/30 07:21:22 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/30 07:21:22 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 16072
+2026/07/30 07:21:22 Starting Launcher Service
+2026/07/30 07:21:22 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/30 07:21:22 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/30 07:21:22 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 13612
+2026/07/30 07:51:44 Started Launch Tool 2.0.7
+2026/07/30 07:51:44 Started as PID 14240
+2026/07/30 07:51:44 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/30 07:51:44 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE9871_IntegrationExample
+2026/07/30 07:51:44 Reading tool data
+2026/07/30 07:51:44 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/30 07:51:44 Validating tool data
+2026/07/30 07:51:44 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/30 07:51:44 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE9871_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/30 07:51:44 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/30 07:51:44 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 15404
+2026/07/30 07:51:44 Starting Launcher Service
+2026/07/30 07:51:44 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/30 07:51:44 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/30 07:51:44 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27588
+2026/07/31 10:21:15 Started Launch Tool 2.0.7
+2026/07/31 10:21:15 Started as PID 15764
+2026/07/31 10:21:15 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/31 10:21:15 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE987x_IntegrationExample
+2026/07/31 10:21:15 Reading tool data
+2026/07/31 10:21:15 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/31 10:21:15 Validating tool data
+2026/07/31 10:21:15 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/31 10:21:15 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/31 10:21:15 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/31 10:21:15 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 33096
+2026/07/31 10:21:15 Starting Launcher Service
+2026/07/31 10:21:15 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/31 10:21:15 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/31 10:21:15 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 17620
+2026/07/31 10:31:33 Started Launch Tool 2.0.7
+2026/07/31 10:31:33 Started as PID 37492
+2026/07/31 10:31:33 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/31 10:31:33 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE987x_IntegrationExample
+2026/07/31 10:31:33 Reading tool data
+2026/07/31 10:31:33 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/31 10:31:33 Validating tool data
+2026/07/31 10:31:33 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/31 10:31:33 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9871QXA20\\config.icwp", "-ddevice=TLE9871QXA20"}
+2026/07/31 10:31:33 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/31 10:31:33 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 33592
+2026/07/31 10:31:33 Starting Launcher Service
+2026/07/31 10:31:33 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/31 10:31:33 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/31 10:31:33 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27304
+2026/07/31 11:01:09 Started Launch Tool 2.0.7
+2026/07/31 11:01:09 Started as PID 27528
+2026/07/31 11:01:09 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/31 11:01:09 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE987x_IntegrationExample
+2026/07/31 11:01:09 Reading tool data
+2026/07/31 11:01:09 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/31 11:01:09 Validating tool data
+2026/07/31 11:01:09 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/31 11:01:09 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/31 11:01:09 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/31 11:01:09 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 25120
+2026/07/31 11:01:09 Starting Launcher Service
+2026/07/31 11:01:09 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/31 11:01:09 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/31 11:01:09 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 3012
+2026/07/31 11:21:13 Started Launch Tool 2.0.7
+2026/07/31 11:21:13 Started as PID 5060
+2026/07/31 11:21:13 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/31 11:21:13 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE987x_IntegrationExample
+2026/07/31 11:21:13 Reading tool data
+2026/07/31 11:21:13 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/31 11:21:13 Validating tool data
+2026/07/31 11:21:13 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/31 11:21:13 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/31 11:21:13 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/31 11:21:13 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 8016
+2026/07/31 11:21:13 Starting Launcher Service
+2026/07/31 11:21:13 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/31 11:21:13 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/31 11:21:13 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 19540
+2026/07/31 11:21:26 Started Launch Tool 2.0.7
+2026/07/31 11:21:26 Started as PID 23948
+2026/07/31 11:21:26 Started with arguments []string{"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\launch-tool.exe", "C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/31 11:21:26 Started in directory C:\Users\Duralia\z_Work\01_MyProjects\Motix\TLx49012_TLE987x_IntegrationExample
+2026/07/31 11:21:26 Reading tool data
+2026/07/31 11:21:26 Reading "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\resources\\tool-details.json"
+2026/07/31 11:21:26 Validating tool data
+2026/07/31 11:21:26 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Infineon MCU Configuration Wizard", Version:"2.7.6.202506301149", Path:"C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe"}
+2026/07/31 11:21:26 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\Duralia\\z_Work\\01_MyProjects\\Motix\\TLx49012_TLE987x_IntegrationExample\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2026/07/31 11:21:26 Starting "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" in directory "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149"
+2026/07/31 11:21:26 Started "C:\\Users\\Duralia\\Infineon\\Tools\\MCU-Config-Wizard\\2.7.6.202506301149\\/ConfigWizard.exe" as PID 9692
+2026/07/31 11:21:26 Starting Launcher Service
+2026/07/31 11:21:26 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.6.202506301149", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2026/07/31 11:21:26 Starting "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\Duralia\\Infineon\\LauncherService"
+2026/07/31 11:21:26 Started "C:\\Users\\Duralia\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 27304
